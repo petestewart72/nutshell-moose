@@ -1,6 +1,6 @@
-# Le Baguette
+# La Baguette
 
-Welcome to Le Baguette, a 27 Michelin star restaurant! This site allows you to keep track of the restaurant's menu, current ingredients, staff, and reservations.
+Welcome to La Baguette, a 27 Michelin star restaurant! This site allows you to keep track of the restaurant's menu, current ingredients, staff, and reservations.
 
 When you are not an authorized user, you can still read most data, you are just unable to change or add new data.
 Upon signing in through Google, you are now authorized to add/edit/delete the restauraunts staff, menu/ingredients, and reservations/seating.
